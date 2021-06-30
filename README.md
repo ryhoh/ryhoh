@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ryhoh
 - 👀 I’m interested in scraping, DB, and machine learning.
 - 🌱 I’m currently learning SQL.
-- 📫 How to reach me -> https://twitter.com/hb_ryhoh
+- 📫 How to reach me -> hori.t3t@gmail.com
 
 <!---
 ryhoh/ryhoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
